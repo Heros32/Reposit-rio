@@ -5,22 +5,22 @@
     <title>Mais Conteúdos para o 3A</title>  <!-- Título da página (aparece na aba do navegador) -->
 </head>
 <body>  <!-- Corpo do documento (conteúdo visível da página) -->
-    <h1>Bem-vindos, senhores programadores do 3A!</h1>  <!-- Títujjmuinuihiolo principal (heading nível 1) -->
+    <h1>Bem-vindos, senhores programadores do 3A!</h1>  <!-- Título principal (heading nível 1) -->
     <p>Esta página tem mais coisas para o 3A:</p>  <!-- Parágrafo de texto -->
 
-    <h2>como adiciona uma Imagem</h2>  <!-- Subtítuloikiol (heading nível 2) -->
+    <h2>como adiciona uma Imagem</h2>  <!-- Subtítulo (heading nível 2) -->
     <img src="caminho/para/sua/imagem.jpg" alt="Descrição da imagem">  <!-- Tag de imagem:
          src = caminho da imagem
          alt = texto alternativo (importante para acessibilidade) -->
 
-    <h2>como adiciona uma Lista</h2>  <!-- Sub,lkmklml~çtítulo -->
+    <h2>como adiciona uma Lista</h2>  <!-- Sub-título -->
     <ul>  <!-- Lista não ordenada (unordered list) -->
         <li>Item 1</li>  <!-- Item de lista (list item) -->
         <li>Item 2</li>
         <li>Item 3</li>
     </ul>
 
-    <h2>como adiciona um Link</h2>  <!-- Sjnjhbibninmjoubtítulo -->
+    <h2>como adiciona um Link</h2>  <!-- Subtítulo -->
     <p>Visite <a href="https://www.google.com">o Google</a>.</p>  <!-- Link (anchor tag):
          href = URL de destino
          texto entre as tags = texto clicável -->
